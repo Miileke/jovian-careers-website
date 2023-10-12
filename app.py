@@ -6,21 +6,23 @@ JOBS = [{
     'id': 1,
     'title': 'Data Analyst',
     'location': 'Havelock, NC',
-    'salary': 'USD$ 130,000',
+    'salary': 'USD $130,000',
 }, {
     'id': 2,
     'title': 'Data Scientist',
     'location': 'Havelock, NC',
-    'salary': 'USD$ 140,000',
+    'salary': 'USD $140,000',
 }, {
     'id': 3,
     'title': 'FrontEnd Engineer',
     'location': 'Havelock, NC',
+    'salary': 'USD $150,000',
+}
 }, {
     'id': 4,
     'title': 'BackEnd Engineer',
     'location': 'Havelock, NC',
-    'salary': 'USD$ 120,000',
+    'salary': 'USD $120,000',
 }]
 
 
