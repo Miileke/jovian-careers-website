@@ -17,12 +17,11 @@ JOBS = [{
     'title': 'FrontEnd Engineer',
     'location': 'Havelock, NC',
     'salary': 'USD $150,000',
-}
 }, {
     'id': 4,
     'title': 'BackEnd Engineer',
     'location': 'Havelock, NC',
-    'salary': 'USD $120,000',
+    'salary': 'USD $ 120,000',
 }]
 
 
